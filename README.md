@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/syedmahmoodali/)
 
 
-![Three-Tier Banner](Three-Tier.mp4)
+![Three-Tier Banner](Three-Tier.gif)
 
 Welcome to the Three-Tier Web Application Deployment project! 🚀
 
